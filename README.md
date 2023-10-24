@@ -30,7 +30,6 @@ This is the README for a homework project that involved making several changes a
 
 5. **Image Size:** Image sizes were adjusted to improve the overall layout and appearance of the content.
 
-![alt text](assets/images/title_image_size.png)
 
 
 6. **Title Improvement:** The title of the HTML document was modified to be more concise and descriptive, making it easier for users to understand the purpose of the page.
