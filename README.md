@@ -22,9 +22,7 @@ This is the README for a homework project that involved making several changes a
 
 3. **Image Alt Attributes:** Alt attributes were added to images to enhance accessibility and provide text descriptions for each image, making the content more user-friendly.
 
- ```md
-![alt text](assets/images/alt_attributions.png)
-```
+
 
 5. **Image Size:** Image sizes were adjusted to improve the overall layout and appearance of the content.
 
