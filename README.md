@@ -12,7 +12,7 @@ This is the README for a homework project that involved making several changes a
    ```md
 ![alt text](assets/images/header.png)
 ```
-```md
+
 
 
 
@@ -21,7 +21,8 @@ This is the README for a homework project that involved making several changes a
 
 
 3. **Image Alt Attributes:** Alt attributes were added to images to enhance accessibility and provide text descriptions for each image, making the content more user-friendly.
-   ```md
+
+ ```md
 ![alt text](assets/images/alt_attributions.png)
 ```
 
